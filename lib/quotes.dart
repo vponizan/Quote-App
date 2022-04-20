@@ -4,182 +4,181 @@ String anonymous = 'Anonymous';
 
 List quotesList = [
   {
-    kQuote : 'If something is wrong fix it. But train your self not to worry, worry fixes nothing',
-    kAuthor : 'Ernest Hemingway'
+    kQuote : 'Що розум людини може осягнути і в що він може повірити, те він здатний досягти',
+    kAuthor : 'Наполеон Хілл'
   },
   {
-    kQuote : "Temperamentally anxious people can have a hard time staying motivated, period, because their intense focus on their worries distracts them from their goals",
-    kAuthor: "Winifred Gallagher, Rapt: Attention and the Focused Life",
+    kQuote : "Прагніть не до успіху, а до цінностей, які він дає",
+    kAuthor: "Альберт Айнштайн",
   },
   {
-    kQuote : "I've had a lot of worries in my life, most of which never happened.",
-    kAuthor: "Mark Twain",
+    kQuote : "Своїм успіхом я зобов’язана тому, що ніколи не виправдовувалася і не приймала виправдань від інших.",
+    kAuthor: "Флоренс Найтінгейл",
   },
   {
-    kQuote: "Everytime I judge someone else, I reveal an unhealed part of my self.",
-    kAuthor: "Don Miguel Ruiz",
+    kQuote: "За свою кар’єру я пропустив понад 9000 кидків, програв майже 300 ігор. 26 раз мені довіряли зробити фінальний переможний кидок, і я промахувався. Я зазнавав поразок знову, і знову, і знову. І саме тому я домігся успіху.",
+    kAuthor: "Майкл Джордан",
   },
   {
-    kQuote: "You can't litter negativity everywhere and wonder why you have a trashy life.Over thinking ruins you. It ruins the situation, twists things around, makes you worry about futile questions and makes everything much worse than actually it is.",
-    kAuthor: anonymous,
+    kQuote: "Найскладніше почати діяти, все інше залежить тільки від наполегливості.",
+    kAuthor: "Амелія Ергарт",
   },
   {
-    kQuote: '''Smile, you don't own all the problems in the world.
-            Eventually all pieces will fall into place. Until then laugh at the confusion, live in the moment and know that everything happens for a reason.
+    kQuote: '''Життя – це те, що з тобою відбувається, поки ти будуєш плани.
             ''',
+    kAuthor: "Джон Леннон",
+  },
+  {
+    kQuote: "Логіка може привести вас. від пункту “А” до пункту “Б”, а уява – куди завгодно",
+    kAuthor: "Альберт Айнштайн",
+  },
+  {
+    kQuote: "Через 20 років ви будете більше розчаровані тими речами, які ви не робили, ніж тими, які ви зробили. Тому відчальте від тихої пристані. Відчуйте попутний вітер у вашому вітрилі. Рухайтеся вперед, дійте, відкривайте!",
+    kAuthor: "Марк Твен",
+  },
+  {
+    kQuote: "Неосмислене життя не варте того, щоб його прожити.",
+    kAuthor: 'Сократ',
+  },
+  {
+    kQuote: "80% успіху — це з’явитися в потрібному місці в потрібний час.",
+    kAuthor: "Вуді Аллен",
+  },
+  {
+    kQuote: "Ваш час обмежений, не витрачайте його, живучи чужим життям.",
+    kAuthor: 'Стів Джобс',
+  },
+  {
+    kQuote: "Перемога – це ще не все, все – це постійне бажання перемагати.",
+    kAuthor: "Вінс Ломбарді",
+  },
+  {
+    kQuote: "Наука – це організовані знання, мудрість – це організоване життя.",
+    kAuthor: "Іммануїл Кант",
+  },
+  {
+    kQuote: "У моєму словнику немає слова “неможливо”.",
+    kAuthor: "Наполеон Бонапарт",
+  },
+  {
+    kQuote: "Ви ніколи не перетнете океан, якщо не наберетеся мужності втратити берег з виду.",
+    kAuthor: "Христофор Колумб",
+  },
+  {
+    kQuote: "Свобода нічого не варта, якщо вона не включає в себе свободу помилятися",
+    kAuthor: "Махатма Ганді",
+  },
+  {
+    kQuote: "Або ви керуєте вашим днем, або день управляє вами.",
+    kAuthor: 'Джим Рон',
+  },
+  {
+    kQuote: "Якщо ви думаєте, що ви здатні на щось, ви маєте рацію, якщо ви думаєте, що у вас не вийде щось, ви теж маєте рацію",
+    kAuthor: "Генрі Форд",
+  },
+  {
+    kQuote: "Два найважливіших дні у твоєму житті: день, коли ти з’явився на світ, і день, коли ти зрозумів навіщо",
     kAuthor: anonymous,
   },
   {
-    kQuote: "If you've given up and chosen something else, then don't hold on to what you let go.",
-    kAuthor: "Hoon jae, Legend of the Blue Sea",
+    kQuote: "Недостатньо тільки отримати знання; їх треба застосувати. Недостатньо тільки бажати; треба діяти.",
+    kAuthor: "Йоганн Вольфганг фон Гете",
   },
   {
-    kQuote: "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
-    kAuthor: "Ayn Rand",
+    kQuote: "Найкраща помста – величезний успіх",
+    kAuthor: "Френк Сінатра",
   },
   {
-    kQuote: "Truth suffers from too much analysis",
-    kAuthor: 'Ancient Fremen Saying',
+    kQuote: "Найчастіше говорять, що мотивації вистачає ненадовго. Але те ж саме відбувається і з освіжаючим душем, тому і рекомендують його приймати щодня.",
+    kAuthor: "Зіг Зіглар",
   },
   {
-    kQuote: "My philosophy is that worrying means you suffer twice.",
-    kAuthor: "J.K. Rowling",
+    kQuote: "Є тільки один спосіб уникнути критики: нічого не робіть, нічого не говоріть і будьте ніким.",
+    kAuthor: "Аристотель",
   },
   {
-    kQuote: "In every life we have some trouble. But when you worry, you make it double.",
-    kAuthor: 'Bobby McFerrin, Don’t Worry be Happy',
+    kQuote: "Людина, якою вам судилося стати – це тільки та людина, якою ви самі вирішите стати.",
+    kAuthor: "Ральф Голдо Емерсон",
   },
   {
-    kQuote: "Empty pockets never held anyone back. Only empty heads and empty hearts can do that.",
-    kAuthor: "Norman Vincent Peale",
+    kQuote: "Ідіть впевнено у напрямку до мрії. Живіть тим життям, яке ви самі собі придумали.",
+    kAuthor: "Генрі Девід Торо",
   },
   {
-    kQuote: "There is nothing that wastes the body like worry, and one who has any faith in God should be ashamed to worry about anything whatsoever.",
-    kAuthor: "Mohandas Gandhi",
+    kQuote: "Сподіваюся, що в кінці своїх днів, коли я постану перед Богом, у мене не залишиться ні краплі таланту, щоб я могла сказати йому: “Я використала все, що ти дав мені",
+    kAuthor: "Ерма Бомбек",
   },
   {
-    kQuote: "The reason why we struggle with insecurity is because we compare our behind the scenes with everyone else’s highlight reel.",
-    kAuthor: "Stephen Furtick",
+    kQuote: "Краще бути впевненим в хорошому результаті, ніж сподіватися на відмінний.",
+    kAuthor: "Воррен Баффетт",
   },
   {
-    kQuote: "If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.",
-    kAuthor: "Roy T. Bennett, The Light in the Heart",
+    kQuote: "Деякі речі можуть заволодіти вашою увагою, але краще зосередьтеся на тих, які заволодівають вашим серцем.",
+    kAuthor: "Індійська мудрість",
   },
   {
-    kQuote: "A day of worry is more exhausting than a week of work.",
-    kAuthor: "John Lubbock",
+    kQuote: "Варто тільки повірити, що ви можете – і ви вже на півдороги до цілі",
+    kAuthor: "Теодор Рузвельт",
   },
   {
-    kQuote: "In a society, only those who don't have skills complain.",
-    kAuthor: 'Kakashi Hatake, Naruto',
+    kQuote: "Не варто звинувачувати дитину в тому, що вона боїться темряви. Справжня трагедія – це коли доросла людина боїться світла.",
+    kAuthor: "Платон",
   },
   {
-    kQuote: "The man who moves the mountains begins by moving small stones.",
-    kAuthor: "Confucius",
+    kQuote: "Навчіться говорити “Я не знаю”, і це вже буде прогрес.",
+    kAuthor: "Мойсей Маймонід",
   },
   {
-    kQuote: "Over thinking ruins you. Ruins the situation, twists things around, make you worry and just makes everything worse than it actually is.",
-    kAuthor: anonymous,
+    kQuote: "Почніть звідти, де ви зараз перебуваєте. Використовуйте те, що у вас є і робіть все, що можете.",
+    kAuthor: "Артур Еш",
   },
   {
-    kQuote: "The moment you stop chasing happiness, you become happy.",
-    kAuthor: "Sandy Hyatt-James",
-  },
-  {
-    kQuote: "Letting go gives us freedom, and freedom is the only condition for happiness. If, in our heart, we still cling to anything - anger, anxiety, or possessions - we cannot be free.",
-    kAuthor: "Thich Nhat Hanh",
-  },
-  {
-    kQuote: "Unaccepted, the universe has no meaning; it is senseless fate and chaos, but acceptance is a way of discovering meaning, not of manufacturing it.",
-    kAuthor: "Alan W. Watts",
-  },
-  {
-    kQuote: "Always be happy, you never know how happy you can make another by just being happy.",
-    kAuthor: "Ogwo David Emenike",
-  },
-  {
-    kQuote: "Happiness is always there. You just have to choose to see it. There's no point dwelling in the dark and ignoring the light of the stars.",
-    kAuthor: "Carrie Hope Fletcher",
-  },
-  {
-    kQuote: "Happiness is a perfume you cannot pour on others without getting some on yourself",
-    kAuthor: "Ralph Waldo Emerson",
-  },
-  {
-    kQuote: "Letting go gives us freedom, and freedom is the only condition for happiness. If, in our heart, we still cling to anything - anger, anxiety, or possessions - we cannot be free.",
-    kAuthor: "Thich Nhat Hanh",
-  },
-  {
-    kQuote: "A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness.",
-    kAuthor: "Albert Einstein",
-  },
-  {
-    kQuote: "Turn your wounds into wisdom.",
-    kAuthor: "Oprah Winfrey",
-  },
-  {
-    kQuote: "Take responsibility of your own happiness, never put it in other people’s hands.",
-    kAuthor: "Roy T. Bennett",
-  },
-  {
-    kQuote: "Its important to know when to leave , whether its , a Party, a Job, or evening a Relationship. If it aint right , dont stressed it . just walk away peacefully.",
-    kAuthor: "Shaneika Marie",
-  },
-  {
-    kQuote: "Destiny, I feel, is also a relationship - a play between divine grace and willful self-effort.",
-    kAuthor: "Elizabeth Gilbert, Eat, Pray, Love",
-  },
-  {
-    kQuote: "You know what I admire the most in romantic relationships? The couple's ability to express childish expressions.",
-    kAuthor: "Dr.Hong, Doctors",
-  },
-  {
-    kQuote: "Every relationship ends because of distance. Some people are too far, but most are just too close.",
+    kQuote: "Впади сім разів, піднімися вісім",
     kAuthor: anonymous
   },
   {
-    kQuote: "If you are driven by fear, anger or pride nature will force you to compete. If you are guided by courage, awareness, tranquility and peace nature will serve you.",
-    kAuthor: "Amit Ray",
+    kQuote: "У всьому є своя краса, але не кожен може її побачити",
+    kAuthor: "Конфуцій",
   },
   {
-    kQuote: "When we have done our best, we should wait the result in peace.",
-    kAuthor: "John Lubbock",
+    kQuote: "Як добре, що не потрібно чекати ні хвилини, щоб почати робити світ кращим",
+    kAuthor: "Анна Франк",
   },
   {
-    kQuote: "Letting go gives us freedom, and freedom is the only condition for happiness. If, in our heart, we still cling to anything - anger, anxiety, or possessions - we cannot be free.",
-    kAuthor: "Thich Nhat Hanh",
+    kQuote: "Коли я звільняюся від того, хто я є, я стаю тим, ким я можу бути",
+    kAuthor: "Лао Цзи",
   },
   {
-    kQuote: "Stress and confusion come from being busy. Peace and clarity come from slowing down and stilling your waters.",
-    kAuthor: "Maxime Lagacé",
+    kQuote: "Щастя – це не щось готове. Щастя залежить тільки від ваших дій.",
+    kAuthor: "Далай Лама",
   },
   {
-    kQuote:"If the selflessness of phenomena is analyzed and if this analysis is cultivated, it causes the effect of attaining nirvana. Through no other cause does one come to peace.",
+    kQuote:"Якщо вам пропонують місце в ракетоносії, не питайте, що за місце! Просто займіть його.",
     kAuthor: anonymous,
   },
   {
-    kQuote:"Human happiness and moral duty are inseparably connected.",
-    kAuthor: "George Washington",
+    kQuote:"Якщо немає вітру, беріться за весла.",
+    kAuthor: "Латинська приказка",
   },
   {
-    kQuote: "Youth is happy because it has the capacity to see beauty. Anyone who keeps the ability to see beauty never grows old.",
-    kAuthor: "Franz Kafka",
+    kQuote: "Завжди опирайтеся на думку про те, що ваше власне рішення домогтися успіху набагато важливіше за все інше",
+    kAuthor: "Авраам Лінкольн",
   },
   {
-    kQuote: "When we hate our enemies, we are giving them power over us: power over our sleep, our appetites, our blood pressure, our health, and our happiness",
-    kAuthor: "Dale Carnegie,How to Stop Worrying and Start Living",
+    kQuote: "Успіх – це здатність крокувати від однієї невдачі до іншої, не втрачаючи ентузіазму.",
+    kAuthor: "Вінстон Черчилль",
   },
   {
-    kQuote: "Adaptiveness is the shortest road to happiness. Get used to everything around you.",
-    kAuthor: "Mwanandeke Kindembo",
+    kQuote: "Єдиною межею наших завтрашніх звершень стануть наші сьогоднішні сумніви.",
+    kAuthor: "Франклін Д. Рузвельт",
   },
   {
-    kQuote: "We are sometimes dragged into a pit of unhappiness by someone else’s opinion that we do not look happy",
-    kAuthor: "Mokokoma Mokhonoana",
+    kQuote: "Людина вмирає тоді, коли перестає змінюватися, а похорон – просто формальність.",
+    kAuthor: "Генрі Форд",
   },
   {
-    kQuote: "... For without pain, there can be no pleasure. Without sadness, there can be no happiness. Without misery there can be no beauty. And without these, life is endless, hopeless, doomed and damned.Adult. You have become adult.",
-    kAuthor: "Harlan Ellison, Paingod and Other Delusions",
+    kQuote: "Любов і робота – це наріжні камені нашої людяності.",
+    kAuthor: "Зигмунд Фрейд",
   }
 
 
